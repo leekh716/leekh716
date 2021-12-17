@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,14,18,20&height=300&section=header&text=Keep%20Studying&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,14,18,20&height=180&section=header&text=Keep%20Studying&fontSize=50&fontAlignY=40)
 
 [![42](https://img.shields.io/badge/42Seoul-black?style=flat-square&logo=42&logoColor=ffffff)](https://42seoul.kr/seoul42/main/view)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]()
