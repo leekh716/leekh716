@@ -32,8 +32,19 @@
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black" />
   </div>
 
-  <br />
-  <h4>contact</h4>
+  <h2><br /></h2>  
+
+![Kunlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekh716&show_icons=true&theme=buefy)
+<div>
+  
+[![kunlee's 42 stats](https://badge42.herokuapp.com/api/stats/kunlee?cursus=42cursus)](https://github.com/JaeSeoKim/badge42) 
+</div>
+<details>
+<summary>Certificate</summary>
+<img src="https://42js.vercel.app/api/v1/certificate/js-piscine-beta/kunlee" alt="kunlee" width="480px" />
+</details>
+  <h2><br /></h2>
+    <h4>contact</h4>
   <div>
     <a href="mailto:42.4.kunlee@gmail.com">
       <img src="https://img.shields.io/badge/42.4.kunlee@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
@@ -42,18 +53,4 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
     </a>
   </div>
-
-  <h2><br /></h2>  
-
-![Kunlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekh716&show_icons=true&theme=buefy)
-<div>
-  
-[![kunlee's 42 stats](https://badge42.herokuapp.com/api/stats/kunlee?cursus=42cursus)](https://github.com/JaeSeoKim/badge42) 
-  </div>
-<details>
-<summary>Certificate</summary>
-<img src="https://42js.vercel.app/api/v1/certificate/js-piscine-beta/kunlee" alt="kunlee" width="480px" />
-</details>
-
-</div>
 </div>
