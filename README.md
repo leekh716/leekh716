@@ -49,8 +49,11 @@
     <a href="mailto:42.4.kunlee@gmail.com">
       <img src="https://img.shields.io/badge/42.4.kunlee@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
     </a>
+    <a href="kunlees.notion.site">
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
+    </a>
     <a href="https://www.instagram.com/kunkun716/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
+      <img src="https://img.shields.io/badge/kunkun716-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
     </a>
   </div>
 </div>
