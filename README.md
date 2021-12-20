@@ -49,7 +49,7 @@
     <a href="mailto:42.4.kunlee@gmail.com">
       <img src="https://img.shields.io/badge/42.4.kunlee@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
     </a>
-    <a href="kunlees.notion.site">
+    <a href="https://kunlees.notion.site/Plz-Note-687a12c53dd44ffa99692bc1dee59fd9">
       <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
     </a>
     <a href="https://www.instagram.com/kunkun716/">
