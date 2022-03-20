@@ -5,7 +5,7 @@
   <br />
   🖥 &nbsp; I'm currently studying at <img src="https://img.shields.io/badge/42Seoul-black?style=flat-square&logo=42&logoColor=ffffff" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
   🔥 &nbsp; I feel passionate when studying <b>Frontend</b> skills.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />
-  🚀 &nbsp; I'm currently developing service <b>'Munetic'</b> as a team. <br /><br />
+  🚀 &nbsp; I'm currently working at OKKY making service <b>OKKY</b> with great team. <br /><br />
   <h2>🛠 &nbsp;Learning Stacks&nbsp;🛠 <br/></h2>
   <h4>Languages</h4>
   <div>
